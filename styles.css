@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+body{
+    width: 30%;
+background: rgb(204,129,204);
+background: linear-gradient(135deg, rgba(204,129,204,1) 50%, rgba(44,44,44,1) 50%);
+}
+h1{
+    font-family: 'EB Garamond', serif;
+}
+img {
+    float: right;
+}
+    
